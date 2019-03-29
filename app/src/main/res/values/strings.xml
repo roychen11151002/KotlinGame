@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KotlinGame</string>
+    <string name="txvName">Enter Name</string>
+    <string name="txvShow">Enter Name to start game</string>
+    <string name="rdPaper">Paper</string>
+    <string name="rdStone">Stone</string>
+    <string name="rdScissor">Scissor</string>
+    <string name="btnStart">Start</string>
+    <string name="txvShowName">Name</string>
+    <string name="txvShowWinner">Winner</string>
+    <string name="txvShowMe">Me</string>
+    <string name="txvShowPc">Android</string>
+</resources>
